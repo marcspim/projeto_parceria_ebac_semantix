@@ -1,0 +1,25 @@
+Site: Damasio (Lat: -18.10, Lon: -43.72)
+Probabilidade de ser Produtor: 100.00%
+Tipo de Rocha Associada: nan
+Tipo de Rocha Hospedeira: Metavolcanic Rock,Conglomerate
+---
+Site: Corrego Velho (Lat: -17.93, Lon: -43.55)
+Probabilidade de ser Produtor: 99.50%
+Tipo de Rocha Associada: nan
+Tipo de Rocha Hospedeira: Metavolcanic Rock,Conglomerate
+---
+Site: Mundo Velho (Lat: -18.43, Lon: -42.17)
+Probabilidade de ser Produtor: 97.50%
+Tipo de Rocha Associada: nan
+Tipo de Rocha Hospedeira: Gneiss,Pegmatite
+---
+Site: Paqueiro Lead Deposit (Lat: -24.70, Lon: -49.07)
+Probabilidade de ser Produtor: 95.00%
+Tipo de Rocha Associada: nan
+Tipo de Rocha Hospedeira: Limestone
+---
+Site: Capitao Do Mato (Lat: -20.11, Lon: -43.94)
+Probabilidade de ser Produtor: 92.00%
+Tipo de Rocha Associada: Phyllite
+Tipo de Rocha Hospedeira: Iron Formation
+---
